@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<Game xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GameName>Finansist</GameName>
+  <StandatrGameRooms>4</StandatrGameRooms>
+  <GoldGameRooms>2</GoldGameRooms>
+  <CurrentGoldCoints>499</CurrentGoldCoints>
+  <StandartGameGoldCosts>300</StandartGameGoldCosts>
+  <GoldGameGoldCosts>500</GoldGameGoldCosts>
+  <StandartRoomsNames>
+    <string>Standart Server 1</string>
+    <string>Standart Server 2</string>
+    <string>Standart Server 3</string>
+    <string>Standart Server 4</string>
+  </StandartRoomsNames>
+  <GoldRoomsNames>
+    <string>Gold Server 1</string>
+    <string>Gold Server 2</string>
+  </GoldRoomsNames>
+  <StandartRoomPlayers>
+    <int>97</int>
+    <int>27</int>
+    <int>59</int>
+    <int>86</int>
+  </StandartRoomPlayers>
+  <GoldRoomPlayers>
+    <int>28</int>
+    <int>70</int>
+  </GoldRoomPlayers>
+  <MaxRoomPlayers>100</MaxRoomPlayers>
+</Game>

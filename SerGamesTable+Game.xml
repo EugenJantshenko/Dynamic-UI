@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<Game xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GameName>Reunion</GameName>
+  <StandatrGameRooms>3</StandatrGameRooms>
+  <GoldGameRooms>3</GoldGameRooms>
+  <CurrentGoldCoints>120</CurrentGoldCoints>
+  <StandartGameGoldCosts>300</StandartGameGoldCosts>
+  <GoldGameGoldCosts>500</GoldGameGoldCosts>
+  <StandartRoomsNames>Standart Server 1</StandartRoomsNames>
+  <StandartRoomsNames>Standart Server 2</StandartRoomsNames>
+  <GoldRoomsNames>
+    <string>Gold Server 1</string>
+    <string>Gold Server 2</string>
+    <string xsi:nil="true" />
+  </GoldRoomsNames>
+  <StandartRoomPlayers>
+    <int>18</int>
+    <int>82</int>
+    <int>0</int>
+  </StandartRoomPlayers>
+  <GoldRoomPlayers>
+    <int>59</int>
+    <int>19</int>
+    <int>0</int>
+  </GoldRoomPlayers>
+  <MaxRoomPlayers>100</MaxRoomPlayers>
+</Game>

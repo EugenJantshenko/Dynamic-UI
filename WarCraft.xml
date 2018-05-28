@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<Game xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GameName>WarCraft</GameName>
+  <StandatrGameRooms>2</StandatrGameRooms>
+  <GoldGameRooms>3</GoldGameRooms>
+  <CurrentGoldCoints>250</CurrentGoldCoints>
+  <StandartGameGoldCosts>300</StandartGameGoldCosts>
+  <GoldGameGoldCosts>500</GoldGameGoldCosts>
+  <StandartRoomsNames>
+    <string>Standart Server 1</string>
+    <string>Standart Server 2</string>
+  </StandartRoomsNames>
+  <GoldRoomsNames>
+    <string>Gold Server 1</string>
+    <string>Gold Server 2</string>
+    <string>Gold Server 3</string>
+  </GoldRoomsNames>
+  <StandartRoomPlayers>
+    <int>77</int>
+    <int>16</int>
+  </StandartRoomPlayers>
+  <GoldRoomPlayers>
+    <int>18</int>
+    <int>85</int>
+    <int>77</int>
+  </GoldRoomPlayers>
+  <MaxRoomPlayers>100</MaxRoomPlayers>
+</Game>

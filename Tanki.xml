@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<Game xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GameName>Tanki</GameName>
+  <StandatrGameRooms>3</StandatrGameRooms>
+  <GoldGameRooms>2</GoldGameRooms>
+  <CurrentGoldCoints>180</CurrentGoldCoints>
+  <StandartGameGoldCosts>300</StandartGameGoldCosts>
+  <GoldGameGoldCosts>500</GoldGameGoldCosts>
+  <StandartRoomsNames>
+    <string>Standart Server 1</string>
+    <string>Standart Server 2</string>
+    <string>Standart Server 3</string>
+  </StandartRoomsNames>
+  <GoldRoomsNames>
+    <string>Gold Server 1</string>
+    <string>Gold Server 2</string>
+  </GoldRoomsNames>
+  <StandartRoomPlayers>
+    <int>21</int>
+    <int>49</int>
+    <int>69</int>
+  </StandartRoomPlayers>
+  <GoldRoomPlayers>
+    <int>98</int>
+    <int>37</int>
+  </GoldRoomPlayers>
+  <MaxRoomPlayers>100</MaxRoomPlayers>
+</Game>
